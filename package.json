@@ -1,7 +1,7 @@
 {
     "name": "Ouinaria-Launcher",
     "preductname": "Ouinaria Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher fait pour le serveur Ouinaria",
     "main": "src/app.js",
     "author": "Luuxis",
