@@ -74,7 +74,7 @@ class Home {
                 </div>
                 <div class="news-content">
                     <div class="bbWrapper">
-                        <p>Impossible de contacter le serveur des news.</br>Merci de vérifier votre configuration.</p>
+                        <p>Impossible de contacter le serveur des news.</p>
                     </div>
                 </div>`
             // news.appendChild(blockNews);
@@ -153,7 +153,7 @@ class Home {
                 new logger('Minecraft', '#36b030');
                 if(launcherSettings.launcher.close === 'close-launcher') ipcRenderer.send("main-window-hide");
                 progressBar.style.display = "none"
-                info.innerHTML = `Demarrage en cours...`
+                info.innerHTML = `Démarrage en cours...`
                 console.log(e);
             })
 
