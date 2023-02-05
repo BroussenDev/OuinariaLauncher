@@ -1,11 +1,7 @@
 {
     "name": "ouinaria-launcher",
     "preductname": "Ouinaria Launcher",
-<<<<<<< HEAD
-    "version": "1.0.5",
-=======
-    "version": "1.0.3",
->>>>>>> parent of 46ae159 (Update 1.0.4)
+    "version": "1.0.6",
     "description": "Launcher créer pour le serveur Minecraft (www.ouinaria.fr)",
     "main": "src/app.js",
     "author": "Luuxis",
