@@ -1,7 +1,7 @@
 {
     "name": "ouinaria-launcher",
     "preductname": "Ouinaria Launcher",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Launcher créer pour le serveur Minecraft (www.ouinaria.fr)",
     "main": "src/app.js",
     "author": "Broussen",

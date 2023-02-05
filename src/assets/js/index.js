@@ -19,8 +19,8 @@ class Splash {
         let splashes = [
             { "message": "Connais-tu Cave Game ?", "author": "Broussen" },
             { "message": "Seul du code vous parle.", "author": "Broussen" },
-            { "message": "Une musique secrète est caché.", "author": "HayWaz" },
-            { "message": "Un serveur...? Survie, oui !", "author": "Broussen" }
+            { "message": "Les ours polaires sont d'humeur glaciale", "author": "Broussen" },
+            { "message": "Un serveur Survie ? Ouinaria est là !", "author": "Broussen" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
