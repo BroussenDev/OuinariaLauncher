@@ -1,10 +1,10 @@
 {
     "name": "ouinaria-launcher",
     "preductname": "Ouinaria Launcher",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "description": "Launcher créer pour le serveur Minecraft (www.ouinaria.fr)",
     "main": "src/app.js",
-    "author": "Luuxis",
+    "author": "Broussen",
     "url": "http://launcher.skylitemc.fr",
     "engines": {
         "node": "16.x.x"
